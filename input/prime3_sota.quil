@@ -1,0 +1,49 @@
+H 1
+CNOT 2 1
+RZ(-pi/4) 1
+CNOT 0 1
+T 1
+CNOT 2 1
+RZ(-pi/4) 1
+CNOT 0 1
+T 1
+CNOT 0 2
+RZ(-pi/4) 2
+CNOT 0 2
+T 2
+T 0
+H 1
+H 2
+CNOT 1 2
+RZ(-pi/4) 2
+CNOT 0 2
+T 2
+CNOT 1 2
+RZ(-pi/4) 2
+CNOT 0 2
+T 2
+CNOT 0 1
+RZ(-pi/4) 1
+CNOT 0 1
+T 1
+T 0
+H 2
+X 2
+H 1
+CNOT 2 1
+RZ(-pi/4) 1
+CNOT 0 1
+T 1
+CNOT 2 1
+RZ(-pi/4) 1
+CNOT 0 1
+T 1
+CNOT 0 2
+RZ(-pi/4) 2
+CNOT 0 2
+T 2
+T 0
+H 1
+X 2
+CNOT 2 1
+CNOT 1 0

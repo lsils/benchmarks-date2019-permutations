@@ -1,0 +1,54 @@
+H 5
+T 5
+CNOT 3 5
+RZ(-pi/4) 5
+H 5
+CNOT 1 5
+T 5
+CNOT 2 5
+RZ(-pi/4) 5
+CNOT 1 5
+T 5
+CNOT 2 5
+RZ(-pi/4) 5
+H 5
+T 5
+CNOT 3 5
+RZ(-pi/4) 5
+H 5
+H 0
+CNOT 0 5
+RZ(-pi/4) 5
+CNOT 4 5
+T 5
+CNOT 0 5
+RZ(-pi/4) 5
+CNOT 4 5
+T 5
+H 5
+T 5
+CNOT 3 5
+RZ(-pi/4) 5
+H 5
+T 5
+CNOT 2 5
+RZ(-pi/4) 5
+CNOT 1 5
+T 5
+CNOT 2 5
+RZ(-pi/4) 5
+CNOT 1 5
+H 5
+T 5
+CNOT 3 5
+RZ(-pi/4) 5
+H 5
+RZ(-pi/4) 5
+CNOT 4 5
+T 5
+CNOT 0 5
+RZ(-pi/4) 5
+CNOT 4 5
+T 5
+CNOT 0 5
+H 0

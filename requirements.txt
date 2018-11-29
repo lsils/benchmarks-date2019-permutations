@@ -1,0 +1,5 @@
+pyquil==2.0.0
+qiskit==0.6.1
+json
+networkx
+pandas

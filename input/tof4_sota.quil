@@ -1,0 +1,36 @@
+H 4
+T 4
+CNOT 2 4
+RZ(-pi/4) 4
+CNOT 1 4
+T 4
+CNOT 2 4
+RZ(-pi/4) 4
+H 4
+H 0
+CNOT 0 4
+RZ(-pi/4) 4
+CNOT 3 4
+T 4
+CNOT 0 4
+RZ(-pi/4) 4
+CNOT 3 4
+T 4
+H 4
+T 4
+CNOT 2 4
+RZ(-pi/4) 4
+CNOT 1 4
+T 4
+CNOT 2 4
+RZ(-pi/4) 4
+H 4
+RZ(-pi/4) 4
+CNOT 3 4
+T 4
+CNOT 0 4
+RZ(-pi/4) 4
+CNOT 3 4
+T 4
+CNOT 0 4
+H 0
