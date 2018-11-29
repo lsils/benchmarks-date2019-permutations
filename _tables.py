@@ -41,4 +41,4 @@ def results_table(devices, blacklist=[]):
 
   df = pd.DataFrame(data)
   df.set_index('name', inplace=True)
-  print(df.to_latex())
+  print(df)
